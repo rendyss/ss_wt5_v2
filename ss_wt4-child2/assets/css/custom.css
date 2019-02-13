@@ -2,3 +2,13 @@
     width: 100px;
     height: 24px;
 }
+
+.post {
+    background: #fff;
+    margin-bottom: 20px;
+}
+
+.post a.title {
+    margin-bottom: 10px;
+    display: block;
+}
